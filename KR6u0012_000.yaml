@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0012/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天公經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2876.xml
+    old_id: T85n2876
+hash: sha256:668c20deda13d19aa8ba4e4d5d1f75acd2d16a7b4e0026492015c0d375aa0970

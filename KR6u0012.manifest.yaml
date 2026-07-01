@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR6u0012/v1
+canonical_location: https://kanripo.org/bkk/KR6u0012/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 天公經
+  identifiers:
+    alt_id:
+    - T85n2876
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2876.xml
+    old_id: T85n2876
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0012_000.yaml, hash: 'sha256:668c20deda13d19aa8ba4e4d5d1f75acd2d16a7b4e0026492015c0d375aa0970'}
+  - {seq: 1, filename: KR6u0012_001.yaml, hash: 'sha256:f1b59f059cbd042deb0aa26da8c491b10ec70b008d38ee3faa5e658bc37515b1'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6u0012_001.markers.yaml, hash: 'sha256:668b8d13097b3f91aa182392c7f998a32bd07b9b646643191b8c45a98f9cb0b6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0012_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 236
+  label: 佛說天公經
+  type: juan
+  level: 1
+hash: sha256:878472052c691e7db9ec545f73b31e5f47b2d14d3a01e1c60a8899aa700a2d16
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
